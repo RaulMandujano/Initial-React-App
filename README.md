@@ -1,3 +1,7 @@
+# My Vehicle React App
+
+My application has the Vehicles information included in a JS file coming from a Data Folder, which also has the design from another .CSS folder. It also has the parent and child component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
